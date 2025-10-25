@@ -1,0 +1,26 @@
+# Core PyTorch and computer vision
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+
+# Data handling and preprocessing
+pandas>=1.5.0
+numpy>=1.21.0
+Pillow>=9.0.0
+scikit-learn>=1.2.0
+
+# Visualization and progress tracking
+matplotlib>=3.5.0
+seaborn>=0.11.0
+tqdm>=4.64.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.15.0
+ipywidgets>=8.0.0
+
+# Optional: Kaggle integration
+kagglehub>=0.1.0
+
+# Development and debugging
+tensorboard>=2.10.0
